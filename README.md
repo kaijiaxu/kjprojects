@@ -10,3 +10,5 @@ Python Projects done by Kaijia Xu
 - Guess the Word (version 2)
   - Using the method of arrays
 - Tic-Tac-Toe
+  - Tic-Tac-Toe.ipynb (Tic-Tac-Toe game using Google Colab)
+  - tictactoe folder (Tic-Tac-Toe human vs AI using pygame and minimax algorithm)
